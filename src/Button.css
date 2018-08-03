@@ -1,0 +1,15 @@
+.btn{
+	margin-left: 40%;
+	margin-bottom: 2%;
+	border-radius: 10px;
+	padding: 1%;
+	width:20%;
+	background: #000000;
+	color: #ffffff;
+	cursor: pointer;
+}
+.res{
+	padding: 2%;
+	text-align: left;
+	margin-left: 3%; 
+}
